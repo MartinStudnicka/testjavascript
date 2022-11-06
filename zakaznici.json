@@ -1,0 +1,25 @@
+{
+  "zakaznici": [
+    {
+      "jmeno": "Martin Studnička",
+      "vek": 52,
+      "mesto": "Ostrava"
+    },
+    {
+      "jmeno": "Karel Novotný",
+      "vek": 45,
+      "mesto": "Praha"
+    },
+    {
+      "jmeno": "Veronika Veselá",
+      "vek": 25,
+      "mesto": "Ostrava"
+    },
+    {
+      "jmeno": "Tomáš Marný",
+      "vek": 30,
+      "mesto": "Olomouc"
+    }
+
+  ]
+}

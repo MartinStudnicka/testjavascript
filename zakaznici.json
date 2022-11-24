@@ -1,5 +1,4 @@
-{
-  "zakaznici": [
+  [
     {
       "jmeno": "Martin Studnička",
       "vek": 52,
@@ -20,6 +19,4 @@
       "vek": 30,
       "mesto": "Olomouc"
     }
-
   ]
-}
